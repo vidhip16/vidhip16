@@ -20,13 +20,9 @@ Python, C
 Web projects, front-end development, and open-source contributions.
 
 ### Skills:
-**proficienct in:**
 - HTML
 - Java  
 - JavaScript  
 - Git
 - CSS
 
-- **currently learning:**
-- Python
-- C
