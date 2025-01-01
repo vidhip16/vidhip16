@@ -26,6 +26,7 @@ Web projects, front-end development, and open-source contributions.
 - JavaScript  
 - Git
 - CSS
- **currently learning:**
+
+- **currently learning:**
 - Python
 - C
