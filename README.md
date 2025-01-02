@@ -10,14 +10,9 @@ Feel free to explore my repositories and projects. I'm always open to collaborat
 
 Happy coding! ✨
 
-### 🌍 Location:
-Based in Toronto, Canada
-
-### 🧠 Currently learning:
-Python, C
-
-### 🤝 I'm open to collaborating on:
-Web projects, front-end development, and open-source contributions.
+### 🌍 Based in Toronto, Canada
+### 🧠 Currently learning Python and C
+### 🤝 I'm open to collaborating on web projects, front-end development, and open-source contributions.
 
 ### Skills:
 - HTML
