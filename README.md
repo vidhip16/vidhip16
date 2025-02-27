@@ -11,7 +11,6 @@ Feel free to check out my repositories and projects. I’m always interested in 
 Happy coding! ✨
 
 - 🌍 Based in Toronto, Canada
-- 🧠 Currently learning Python and C
 - 🤝 I'm open to collaborating on web projects, front-end development, and open-source contributions.
 
 Skills:
